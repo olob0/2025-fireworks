@@ -33,7 +33,7 @@ export default class Game {
     )
 
     this.draw.text(
-      "2025",
+      "2026",
       { x: canvasSize.width / 2, y: canvasSize.height / 2 },
       "rgba(255, 255, 225, 0.1)",
       120,
